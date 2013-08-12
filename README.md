@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tmcw/detect-json-indent.png)](https://travis-ci.org/tmcw/detect-json-indent)
+
 ## detect JSON indent
 
 ```js
