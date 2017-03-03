@@ -1,5 +1,4 @@
-module.exports = function(_, def) {
-    def = def === undefined ? 4 : def;
+module.exports = function(_) {
     if (_ === '{}') return '    ';
     var lines = _.split('\n');
     if (lines.length < 2) return null;
