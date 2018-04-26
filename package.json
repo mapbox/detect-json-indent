@@ -2,14 +2,14 @@
   "license": "BSD-2-Clause",
   "name": "detect-json-indent",
   "repository": {
-    "url": "git://github.com/tmcw/detect-json-indent.git",
+    "url": "git://github.com/mapbox/detect-json-indent.git",
     "type": "git"
   },
   "author": "Mapbox",
   "directories": {
     "test": "test"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "devDependencies": {
     "mocha": "~3.2.0",
     "expect.js": "~0.3.1"
