@@ -5,7 +5,7 @@
     "url": "git://github.com/tmcw/detect-json-indent.git",
     "type": "git"
   },
-  "author": "Tom MacWright",
+  "author": "Mapbox",
   "directories": {
     "test": "test"
   },
